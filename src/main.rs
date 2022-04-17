@@ -1,64 +1,24 @@
-use core::time;
-use std::sync::Arc;
 extern crate wifiscanner;
 
 use std::thread;
 
+use data::{
+    appstate::{AppState, Name},
+    wifiitem::WifiItem,
+};
 use druid::{
     self,
     im::Vector,
-    widget::{Button, Either, Flex, Label, List, Scroll, Spinner},
-    AppDelegate, Data, ExtEventSink, Handled, Lens, PlatformError, Selector, Target, Widget,
-    WidgetExt, WindowDesc,
+    widget::{Button, Either, Flex, Label, Scroll, Spinner},
+    AppDelegate, ExtEventSink, Handled, PlatformError, Selector, Target, WidgetExt, WindowDesc,
 };
 use std::process::Command;
+use ui::{nameui::build_name, wifilistui::build_list};
+
+mod data;
+mod ui;
 
 const WIFI_LIST_READY: Selector<Vector<WifiItem>> = Selector::new("wifi_list_ready");
-
-#[derive(Data, Clone, Lens)]
-struct AppState {
-    name: Name,
-    wifis: Vector<WifiItem>,
-    wifi_processing: bool,
-}
-
-#[derive(Clone, Data, Lens)]
-struct Name {
-    fname: Arc<str>,
-    lname: Arc<str>,
-}
-
-#[derive(Clone, Data, Lens)]
-struct WifiItem {
-    inuse: bool,
-    security: Arc<str>,
-    ssid: Arc<str>,
-}
-
-fn build_name() -> impl Widget<Name> {
-    Flex::row()
-        .with_child(
-            Label::new(|data: &Arc<str>, _env: &_| format!("Hello {}", data)).lens(Name::fname),
-        )
-        .with_default_spacer()
-        .with_child(Label::new(|data: &Arc<str>, _env: &_| format!("{}", data)).lens(Name::lname))
-}
-
-fn build_list() -> impl Widget<Vector<WifiItem>> {
-    List::new(|| {
-        Flex::row()
-            .with_child(
-                Label::new(|a: &bool, _env: &_| {
-                    format!("{}", if *a { "Connected" } else { "Not Connected" })
-                })
-                .lens(WifiItem::inuse),
-            )
-            .with_default_spacer()
-            .with_child(
-                Label::new(|a: &Arc<str>, _env: &_| format!("{}", a.clone())).lens(WifiItem::ssid),
-            )
-    })
-}
 
 fn build_ui() -> WindowDesc<AppState> {
     WindowDesc::new(

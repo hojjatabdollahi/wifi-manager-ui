@@ -4,7 +4,7 @@
 !_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
 !_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
 !_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
-!_TAG_PROC_CWD	/home/hojjat/Projects/Rust/teach_druid/	//
+!_TAG_PROC_CWD	/home/hojjat/Projects/Rust/wifi-manager-ui/	//
 !_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
@@ -1142,6 +1142,22 @@
 0	target/debug/.fingerprint/unicode-xid-aeb18ec3bc792598/lib-unicode-xid.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17221491243435642268,"profil/;"	o	array:local
 0	target/debug/.fingerprint/version-compare-342ac7d14ba48c20/lib-version-compare.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17443050515150725052,"profil/;"	o	array:local
 0	target/debug/.fingerprint/version_check-d3bf3b48a155a06f/lib-version_check.json	/^{"rustc":14330414595928666026,"features":"[]","target":2726911228026723764,"profile":12637318739/;"	o	array:local
+0	target/debug/.fingerprint/wifi-manager-ui-3cbe825fef49c672/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	a	array:deps
+0	target/debug/.fingerprint/wifi-manager-ui-3cbe825fef49c672/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	n	array:deps.0
+0	target/debug/.fingerprint/wifi-manager-ui-3cbe825fef49c672/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	n	array:deps.1
+0	target/debug/.fingerprint/wifi-manager-ui-3cbe825fef49c672/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	o	array:local
+0	target/debug/.fingerprint/wifi-manager-ui-46efffd8524e01e2/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":9251013656/;"	a	array:deps
+0	target/debug/.fingerprint/wifi-manager-ui-46efffd8524e01e2/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":9251013656/;"	n	array:deps.0
+0	target/debug/.fingerprint/wifi-manager-ui-46efffd8524e01e2/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":9251013656/;"	n	array:deps.1
+0	target/debug/.fingerprint/wifi-manager-ui-46efffd8524e01e2/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":9251013656/;"	o	array:local
+0	target/debug/.fingerprint/wifi-manager-ui-e865ca417e2b5b1e/test-bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":1021633075/;"	a	array:deps
+0	target/debug/.fingerprint/wifi-manager-ui-e865ca417e2b5b1e/test-bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":1021633075/;"	n	array:deps.0
+0	target/debug/.fingerprint/wifi-manager-ui-e865ca417e2b5b1e/test-bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":1021633075/;"	n	array:deps.1
+0	target/debug/.fingerprint/wifi-manager-ui-e865ca417e2b5b1e/test-bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":1021633075/;"	o	array:local
+0	target/debug/.fingerprint/wifi-manager-ui-fc4b522a03e3c281/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	a	array:deps
+0	target/debug/.fingerprint/wifi-manager-ui-fc4b522a03e3c281/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	n	array:deps.0
+0	target/debug/.fingerprint/wifi-manager-ui-fc4b522a03e3c281/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	n	array:deps.1
+0	target/debug/.fingerprint/wifi-manager-ui-fc4b522a03e3c281/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	o	array:local
 0	target/debug/.fingerprint/wifiscanner-475c5b8a035afce3/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":1263731873/;"	a	array:deps
 0	target/debug/.fingerprint/wifiscanner-475c5b8a035afce3/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":1263731873/;"	n	array:deps.0
 0	target/debug/.fingerprint/wifiscanner-475c5b8a035afce3/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":1263731873/;"	n	array:deps.1
@@ -1919,6 +1935,18 @@
 1	target/debug/.fingerprint/unic-ucd-bidi-6b18bdfba2705b2c/lib-unic-ucd-bidi.json	/^{"rustc":14330414595928666026,"features":"[]","target":13641745647837513224,"profile":1263731873/;"	s	array:deps.2
 1	target/debug/.fingerprint/unic-ucd-version-a5752e5e4059ef56/lib-unic-ucd-version.json	/^{"rustc":14330414595928666026,"features":"[]","target":4848630649522964100,"profile":37355030920/;"	s	array:deps.0
 1	target/debug/.fingerprint/unic-ucd-version-bfe643fecd9d81f2/lib-unic-ucd-version.json	/^{"rustc":14330414595928666026,"features":"[]","target":4848630649522964100,"profile":12637318739/;"	s	array:deps.0
+1	target/debug/.fingerprint/wifi-manager-ui-3cbe825fef49c672/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	a	array:deps
+1	target/debug/.fingerprint/wifi-manager-ui-3cbe825fef49c672/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	s	array:deps.0
+1	target/debug/.fingerprint/wifi-manager-ui-3cbe825fef49c672/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	s	array:deps.1
+1	target/debug/.fingerprint/wifi-manager-ui-46efffd8524e01e2/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":9251013656/;"	a	array:deps
+1	target/debug/.fingerprint/wifi-manager-ui-46efffd8524e01e2/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":9251013656/;"	s	array:deps.0
+1	target/debug/.fingerprint/wifi-manager-ui-46efffd8524e01e2/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":9251013656/;"	s	array:deps.1
+1	target/debug/.fingerprint/wifi-manager-ui-e865ca417e2b5b1e/test-bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":1021633075/;"	a	array:deps
+1	target/debug/.fingerprint/wifi-manager-ui-e865ca417e2b5b1e/test-bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":1021633075/;"	s	array:deps.0
+1	target/debug/.fingerprint/wifi-manager-ui-e865ca417e2b5b1e/test-bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":1021633075/;"	s	array:deps.1
+1	target/debug/.fingerprint/wifi-manager-ui-fc4b522a03e3c281/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	a	array:deps
+1	target/debug/.fingerprint/wifi-manager-ui-fc4b522a03e3c281/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	s	array:deps.0
+1	target/debug/.fingerprint/wifi-manager-ui-fc4b522a03e3c281/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	s	array:deps.1
 1	target/debug/.fingerprint/wifiscanner-475c5b8a035afce3/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":1263731873/;"	a	array:deps
 1	target/debug/.fingerprint/wifiscanner-475c5b8a035afce3/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":1263731873/;"	s	array:deps.0
 1	target/debug/.fingerprint/wifiscanner-475c5b8a035afce3/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":1263731873/;"	s	array:deps.1
@@ -1965,7 +1993,7 @@
 11	target/debug/.fingerprint/gtk-sys-8579984745bb1ec4/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15857326031/;"	o	array:local
 11	target/debug/.fingerprint/pango-sys-8bf88e2bf9c65458/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[79270218766/;"	o	array:local
 11	target/debug/.fingerprint/pangocairo-sys-43d9ff9e0a8bed52/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15508571225/;"	o	array:local
-11142364071441499871	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	o	object:outputs
+11142364071441499871	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	o	object:outputs
 12	target/debug/.fingerprint/atk-sys-d15ea049c77b296e/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15857326031/;"	o	array:local
 12	target/debug/.fingerprint/cairo-sys-rs-42879d13c95f7bcf/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15508571225/;"	o	array:local
 12	target/debug/.fingerprint/druid-cfe8e9f8aa7d4a21/lib-druid.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\", \\"gtk\\", \\"im\\"]","target":5294763/;"	a	array:deps
@@ -2046,7 +2074,7 @@
 17	target/debug/.fingerprint/gtk-sys-8579984745bb1ec4/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15857326031/;"	o	array:local
 17	target/debug/.fingerprint/pango-sys-8bf88e2bf9c65458/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[79270218766/;"	o	array:local
 17	target/debug/.fingerprint/pangocairo-sys-43d9ff9e0a8bed52/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15508571225/;"	o	array:local
-17598535894874457435	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	o	object:outputs
+17598535894874457435	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	o	object:outputs
 18	target/debug/.fingerprint/atk-sys-d15ea049c77b296e/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15857326031/;"	o	array:local
 18	target/debug/.fingerprint/cairo-sys-rs-42879d13c95f7bcf/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15508571225/;"	o	array:local
 18	target/debug/.fingerprint/gdk-pixbuf-sys-1deaa19aa86075c9/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[32282559300/;"	o	array:local
@@ -2808,6 +2836,14 @@
 2	target/debug/.fingerprint/unic-ucd-bidi-6b18bdfba2705b2c/lib-unic-ucd-bidi.json	/^{"rustc":14330414595928666026,"features":"[]","target":13641745647837513224,"profile":1263731873/;"	b	array:deps.2
 2	target/debug/.fingerprint/unic-ucd-version-a5752e5e4059ef56/lib-unic-ucd-version.json	/^{"rustc":14330414595928666026,"features":"[]","target":4848630649522964100,"profile":37355030920/;"	b	array:deps.0
 2	target/debug/.fingerprint/unic-ucd-version-bfe643fecd9d81f2/lib-unic-ucd-version.json	/^{"rustc":14330414595928666026,"features":"[]","target":4848630649522964100,"profile":12637318739/;"	b	array:deps.0
+2	target/debug/.fingerprint/wifi-manager-ui-3cbe825fef49c672/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	b	array:deps.0
+2	target/debug/.fingerprint/wifi-manager-ui-3cbe825fef49c672/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	b	array:deps.1
+2	target/debug/.fingerprint/wifi-manager-ui-46efffd8524e01e2/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":9251013656/;"	b	array:deps.0
+2	target/debug/.fingerprint/wifi-manager-ui-46efffd8524e01e2/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":9251013656/;"	b	array:deps.1
+2	target/debug/.fingerprint/wifi-manager-ui-e865ca417e2b5b1e/test-bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":1021633075/;"	b	array:deps.0
+2	target/debug/.fingerprint/wifi-manager-ui-e865ca417e2b5b1e/test-bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":1021633075/;"	b	array:deps.1
+2	target/debug/.fingerprint/wifi-manager-ui-fc4b522a03e3c281/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	b	array:deps.0
+2	target/debug/.fingerprint/wifi-manager-ui-fc4b522a03e3c281/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	b	array:deps.1
 2	target/debug/.fingerprint/wifiscanner-475c5b8a035afce3/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":1263731873/;"	b	array:deps.0
 2	target/debug/.fingerprint/wifiscanner-475c5b8a035afce3/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":1263731873/;"	b	array:deps.1
 2	target/debug/.fingerprint/wifiscanner-d738314f4afe3442/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":3735503092/;"	b	array:deps.0
@@ -2892,7 +2928,7 @@
 27	target/debug/.fingerprint/gtk-sys-8579984745bb1ec4/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15857326031/;"	o	array:local
 27	target/debug/.fingerprint/pango-sys-8bf88e2bf9c65458/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[79270218766/;"	o	array:local
 27	target/debug/.fingerprint/pangocairo-sys-43d9ff9e0a8bed52/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15508571225/;"	o	array:local
-2797684049618456168	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	o	object:outputs
+2797684049618456168	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	o	object:outputs
 28	target/debug/.fingerprint/atk-sys-d15ea049c77b296e/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15857326031/;"	o	array:local
 28	target/debug/.fingerprint/cairo-sys-rs-42879d13c95f7bcf/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15508571225/;"	o	array:local
 28	target/debug/.fingerprint/gdk-pixbuf-sys-1deaa19aa86075c9/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[32282559300/;"	o	array:local
@@ -3635,6 +3671,14 @@
 3	target/debug/.fingerprint/unic-ucd-bidi-6b18bdfba2705b2c/lib-unic-ucd-bidi.json	/^{"rustc":14330414595928666026,"features":"[]","target":13641745647837513224,"profile":1263731873/;"	n	array:deps.2
 3	target/debug/.fingerprint/unic-ucd-version-a5752e5e4059ef56/lib-unic-ucd-version.json	/^{"rustc":14330414595928666026,"features":"[]","target":4848630649522964100,"profile":37355030920/;"	n	array:deps.0
 3	target/debug/.fingerprint/unic-ucd-version-bfe643fecd9d81f2/lib-unic-ucd-version.json	/^{"rustc":14330414595928666026,"features":"[]","target":4848630649522964100,"profile":12637318739/;"	n	array:deps.0
+3	target/debug/.fingerprint/wifi-manager-ui-3cbe825fef49c672/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	n	array:deps.0
+3	target/debug/.fingerprint/wifi-manager-ui-3cbe825fef49c672/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	n	array:deps.1
+3	target/debug/.fingerprint/wifi-manager-ui-46efffd8524e01e2/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":9251013656/;"	n	array:deps.0
+3	target/debug/.fingerprint/wifi-manager-ui-46efffd8524e01e2/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":9251013656/;"	n	array:deps.1
+3	target/debug/.fingerprint/wifi-manager-ui-e865ca417e2b5b1e/test-bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":1021633075/;"	n	array:deps.0
+3	target/debug/.fingerprint/wifi-manager-ui-e865ca417e2b5b1e/test-bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":1021633075/;"	n	array:deps.1
+3	target/debug/.fingerprint/wifi-manager-ui-fc4b522a03e3c281/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	n	array:deps.0
+3	target/debug/.fingerprint/wifi-manager-ui-fc4b522a03e3c281/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	n	array:deps.1
 3	target/debug/.fingerprint/wifiscanner-475c5b8a035afce3/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":1263731873/;"	n	array:deps.0
 3	target/debug/.fingerprint/wifiscanner-475c5b8a035afce3/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":1263731873/;"	n	array:deps.1
 3	target/debug/.fingerprint/wifiscanner-d738314f4afe3442/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":3735503092/;"	n	array:deps.0
@@ -3915,7 +3959,7 @@
 53	target/debug/.fingerprint/cairo-sys-rs-42879d13c95f7bcf/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15508571225/;"	o	array:local
 53	target/debug/.fingerprint/gdk-sys-225a128388d9df4c/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15508571225/;"	o	array:local
 53	target/debug/.fingerprint/glib-sys-e62ef97f63c913e8/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[79270218766/;"	o	array:local
-5309432699494263626	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	o	object:outputs
+5309432699494263626	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	o	object:outputs
 54	target/debug/.fingerprint/cairo-sys-rs-42879d13c95f7bcf/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15508571225/;"	o	array:local
 54	target/debug/.fingerprint/gdk-sys-225a128388d9df4c/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15508571225/;"	o	array:local
 54	target/debug/.fingerprint/glib-sys-e62ef97f63c913e8/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[79270218766/;"	o	array:local
@@ -4089,7 +4133,7 @@
 83	target/debug/.fingerprint/glib-sys-e62ef97f63c913e8/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[79270218766/;"	o	array:local
 84	target/debug/.fingerprint/cairo-sys-rs-42879d13c95f7bcf/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15508571225/;"	o	array:local
 84	target/debug/.fingerprint/glib-sys-e62ef97f63c913e8/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[79270218766/;"	o	array:local
-8478739912462367707	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	o	object:outputs
+8478739912462367707	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	o	object:outputs
 85	target/debug/.fingerprint/cairo-sys-rs-42879d13c95f7bcf/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15508571225/;"	o	array:local
 85	target/debug/.fingerprint/glib-sys-e62ef97f63c913e8/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[79270218766/;"	o	array:local
 86	target/debug/.fingerprint/cairo-sys-rs-42879d13c95f7bcf/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15508571225/;"	o	array:local
@@ -4122,8 +4166,8 @@
 9	target/debug/.fingerprint/pango-sys-8bf88e2bf9c65458/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[79270218766/;"	o	array:local
 9	target/debug/.fingerprint/pangocairo-sys-43d9ff9e0a8bed52/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15508571225/;"	o	array:local
 9	target/debug/.fingerprint/system-deps-bb1b8fcaffa715ee/lib-system-deps.json	/^{"rustc":14330414595928666026,"features":"[]","target":6645014340141108633,"profile":12637318739/;"	a	array:deps
-931469667778813386	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	o	object:outputs
-9666181950136269162	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	o	object:outputs
+931469667778813386	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	o	object:outputs
+9666181950136269162	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	o	object:outputs
 A	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^    type A = NInt<UInt<UInt<UInt<UTerm, B1>, B0>, B0>>;$/;"	t	function:test_N4_Abs
 A	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^    type A = NInt<UInt<UInt<UInt<UTerm, B1>, B0>, B0>>;$/;"	t	function:test_N4_Add_N1
 A	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^    type A = NInt<UInt<UInt<UInt<UTerm, B1>, B0>, B0>>;$/;"	t	function:test_N4_Add_N2
@@ -5878,7 +5922,7 @@ AbsP3	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^    type AbsP3 
 AbsP4	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^    type AbsP4 = <<A as Abs>::Output as Same<P4>>::Output;$/;"	t	function:test_P4_Abs
 AbsP5	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^    type AbsP5 = <<A as Abs>::Output as Same<P5>>::Output;$/;"	t	function:test_P5_Abs
 Abs_0	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^    type Abs_0 = <<A as Abs>::Output as Same<_0>>::Output;$/;"	t	function:test__0_Abs
-AppState	src/main.rs	/^struct AppState {$/;"	s
+AppState	src/data/appstate.rs	/^pub struct AppState {$/;"	s
 B	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^    type B = NInt<UInt<UInt<UInt<UTerm, B1>, B0>, B0>>;$/;"	t	function:test_N1_Add_N4
 B	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^    type B = NInt<UInt<UInt<UInt<UTerm, B1>, B0>, B0>>;$/;"	t	function:test_N1_Cmp_N4
 B	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^    type B = NInt<UInt<UInt<UInt<UTerm, B1>, B0>, B0>>;$/;"	t	function:test_N1_Div_N4
@@ -7843,6 +7887,10 @@ CheckDepInfo	target/debug/.fingerprint/unicode-segmentation-f00aadea21d27e49/lib
 CheckDepInfo	target/debug/.fingerprint/unicode-xid-aeb18ec3bc792598/lib-unicode-xid.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17221491243435642268,"profil/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/version-compare-342ac7d14ba48c20/lib-version-compare.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17443050515150725052,"profil/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/version_check-d3bf3b48a155a06f/lib-version_check.json	/^{"rustc":14330414595928666026,"features":"[]","target":2726911228026723764,"profile":12637318739/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/wifi-manager-ui-3cbe825fef49c672/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/wifi-manager-ui-46efffd8524e01e2/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":9251013656/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/wifi-manager-ui-e865ca417e2b5b1e/test-bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":1021633075/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/wifi-manager-ui-fc4b522a03e3c281/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/wifiscanner-475c5b8a035afce3/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":1263731873/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/wifiscanner-d738314f4afe3442/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":3735503092/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/xi-unicode-1ef2e4a5ed20a4e3/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":1263731873/;"	o	object:local.0
@@ -9857,7 +9905,7 @@ N996	target/debug/build/typenum-ac05385cff7c2a5e/out/consts.rs	/^    pub type P9
 N997	target/debug/build/typenum-ac05385cff7c2a5e/out/consts.rs	/^    pub type P997 = PInt<U997>; pub type N997 = NInt<U997>;$/;"	t	module:consts
 N998	target/debug/build/typenum-ac05385cff7c2a5e/out/consts.rs	/^    pub type P998 = PInt<U998>; pub type N998 = NInt<U998>;$/;"	t	module:consts
 N999	target/debug/build/typenum-ac05385cff7c2a5e/out/consts.rs	/^    pub type P999 = PInt<U999>; pub type N999 = NInt<U999>;$/;"	t	module:consts
-Name	src/main.rs	/^struct Name {$/;"	s
+Name	src/data/appstate.rs	/^pub struct Name {$/;"	s
 NegN1	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^    type NegN1 = <<A as Neg>::Output as Same<P1>>::Output;$/;"	t	function:test_N1_Neg
 NegN2	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^    type NegN2 = <<A as Neg>::Output as Same<P2>>::Output;$/;"	t	function:test_N2_Neg
 NegN3	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^    type NegN3 = <<A as Neg>::Output as Same<P3>>::Output;$/;"	t	function:test_N3_Neg
@@ -14747,7 +14795,7 @@ U996	target/debug/build/typenum-ac05385cff7c2a5e/out/consts.rs	/^    pub type U9
 U997	target/debug/build/typenum-ac05385cff7c2a5e/out/consts.rs	/^    pub type U997 = UInt<UInt<UInt<UInt<UInt<UInt<UInt<UInt<UInt<UInt<UTerm, B1>, B1>, B1>, B1>,/;"	t	module:consts
 U998	target/debug/build/typenum-ac05385cff7c2a5e/out/consts.rs	/^    pub type U998 = UInt<UInt<UInt<UInt<UInt<UInt<UInt<UInt<UInt<UInt<UTerm, B1>, B1>, B1>, B1>,/;"	t	module:consts
 U999	target/debug/build/typenum-ac05385cff7c2a5e/out/consts.rs	/^    pub type U999 = UInt<UInt<UInt<UInt<UInt<UInt<UInt<UInt<UInt<UInt<UTerm, B1>, B1>, B1>, B1>,/;"	t	module:consts
-WifiItem	src/main.rs	/^struct WifiItem {$/;"	s
+WifiItem	src/data/wifiitem.rs	/^pub struct WifiItem {$/;"	s
 _0	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^    type _0 = Z0;$/;"	t	function:test_N1_Add_P1
 _0	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^    type _0 = Z0;$/;"	t	function:test_N1_Div_N2
 _0	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^    type _0 = Z0;$/;"	t	function:test_N1_Div_N3
@@ -15045,17 +15093,18 @@ _0SubP4	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^    type _0Su
 _0SubP5	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^    type _0SubP5 = <<A as Sub<B>>::Output as Same<N5>>::Output;$/;"	t	function:test__0_Sub_P5
 _0Sub_0	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^    type _0Sub_0 = <<A as Sub<B>>::Output as Same<_0>>::Output;$/;"	t	function:test__0_Sub__0
 __op_internal__	target/debug/build/typenum-ac05385cff7c2a5e/out/op.rs	/^    macro_rules! __op_internal__ {$/;"	M
+appstate	src/data/mod.rs	/^pub mod appstate;$/;"	n
 backtrace	target/debug/build/anyhow-93dacdece15b0c7c/out/probe.rs	/^        fn backtrace(&self) -> Option<&Backtrace> {$/;"	P	implementation:E
-build_list	src/main.rs	/^fn build_list() -> impl Widget<Vector<WifiItem>> {$/;"	f
-build_name	src/main.rs	/^fn build_name() -> impl Widget<Name> {$/;"	f
+build_list	src/ui/wifilistui.rs	/^pub fn build_list() -> impl Widget<Vector<WifiItem>> {$/;"	f
+build_name	src/ui/nameui.rs	/^pub fn build_name() -> impl Widget<Name> {$/;"	f
 build_ui	src/main.rs	/^fn build_ui() -> WindowDesc<AppState> {$/;"	f
-code	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	n	object:outputs.11142364071441499871
-code	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	n	object:outputs.17598535894874457435
-code	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	n	object:outputs.2797684049618456168
-code	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	n	object:outputs.5309432699494263626
-code	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	n	object:outputs.8478739912462367707
-code	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	n	object:outputs.931469667778813386
-code	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	n	object:outputs.9666181950136269162
+code	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	n	object:outputs.11142364071441499871
+code	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	n	object:outputs.17598535894874457435
+code	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	n	object:outputs.2797684049618456168
+code	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	n	object:outputs.5309432699494263626
+code	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	n	object:outputs.8478739912462367707
+code	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	n	object:outputs.931469667778813386
+code	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	n	object:outputs.9666181950136269162
 command	src/main.rs	/^    fn command($/;"	P	implementation:Delegate
 compile_kind	target/debug/.fingerprint/aho-corasick-970a5f30fe00cf11/lib-aho_corasick.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\", \\"std\\"]","target":14517922388190571/;"	n
 compile_kind	target/debug/.fingerprint/aho-corasick-e5a7663dc1713624/lib-aho_corasick.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\", \\"std\\"]","target":14517922388190571/;"	n
@@ -15329,6 +15378,10 @@ compile_kind	target/debug/.fingerprint/unicode-segmentation-f00aadea21d27e49/lib
 compile_kind	target/debug/.fingerprint/unicode-xid-aeb18ec3bc792598/lib-unicode-xid.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17221491243435642268,"profil/;"	n
 compile_kind	target/debug/.fingerprint/version-compare-342ac7d14ba48c20/lib-version-compare.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17443050515150725052,"profil/;"	n
 compile_kind	target/debug/.fingerprint/version_check-d3bf3b48a155a06f/lib-version_check.json	/^{"rustc":14330414595928666026,"features":"[]","target":2726911228026723764,"profile":12637318739/;"	n
+compile_kind	target/debug/.fingerprint/wifi-manager-ui-3cbe825fef49c672/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	n
+compile_kind	target/debug/.fingerprint/wifi-manager-ui-46efffd8524e01e2/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":9251013656/;"	n
+compile_kind	target/debug/.fingerprint/wifi-manager-ui-e865ca417e2b5b1e/test-bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":1021633075/;"	n
+compile_kind	target/debug/.fingerprint/wifi-manager-ui-fc4b522a03e3c281/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	n
 compile_kind	target/debug/.fingerprint/wifiscanner-475c5b8a035afce3/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":1263731873/;"	n
 compile_kind	target/debug/.fingerprint/wifiscanner-d738314f4afe3442/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":3735503092/;"	n
 compile_kind	target/debug/.fingerprint/xi-unicode-1ef2e4a5ed20a4e3/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":1263731873/;"	n
@@ -15605,11 +15658,16 @@ config	target/debug/.fingerprint/unicode-segmentation-f00aadea21d27e49/lib-unico
 config	target/debug/.fingerprint/unicode-xid-aeb18ec3bc792598/lib-unicode-xid.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17221491243435642268,"profil/;"	n
 config	target/debug/.fingerprint/version-compare-342ac7d14ba48c20/lib-version-compare.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17443050515150725052,"profil/;"	n
 config	target/debug/.fingerprint/version_check-d3bf3b48a155a06f/lib-version_check.json	/^{"rustc":14330414595928666026,"features":"[]","target":2726911228026723764,"profile":12637318739/;"	n
+config	target/debug/.fingerprint/wifi-manager-ui-3cbe825fef49c672/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	n
+config	target/debug/.fingerprint/wifi-manager-ui-46efffd8524e01e2/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":9251013656/;"	n
+config	target/debug/.fingerprint/wifi-manager-ui-e865ca417e2b5b1e/test-bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":1021633075/;"	n
+config	target/debug/.fingerprint/wifi-manager-ui-fc4b522a03e3c281/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	n
 config	target/debug/.fingerprint/wifiscanner-475c5b8a035afce3/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":1263731873/;"	n
 config	target/debug/.fingerprint/wifiscanner-d738314f4afe3442/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":3735503092/;"	n
 config	target/debug/.fingerprint/xi-unicode-1ef2e4a5ed20a4e3/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":1263731873/;"	n
 config	target/debug/.fingerprint/xi-unicode-398dc402e898fdac/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":3735503092/;"	n
 consts	target/debug/build/typenum-ac05385cff7c2a5e/out/consts.rs	/^pub mod consts {$/;"	n
+data	src/main.rs	/^mod data;$/;"	n
 dep_info	target/debug/.fingerprint/aho-corasick-970a5f30fe00cf11/lib-aho_corasick.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\", \\"std\\"]","target":14517922388190571/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/aho-corasick-e5a7663dc1713624/lib-aho_corasick.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\", \\"std\\"]","target":14517922388190571/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/ansi_term-61814df9bf3a268f/lib-ansi_term.json	/^{"rustc":14330414595928666026,"features":"[]","target":13551784709453654202,"profile":3735503092/;"	s	object:local.0.CheckDepInfo
@@ -15853,6 +15911,10 @@ dep_info	target/debug/.fingerprint/unicode-segmentation-f00aadea21d27e49/lib-uni
 dep_info	target/debug/.fingerprint/unicode-xid-aeb18ec3bc792598/lib-unicode-xid.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17221491243435642268,"profil/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/version-compare-342ac7d14ba48c20/lib-version-compare.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17443050515150725052,"profil/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/version_check-d3bf3b48a155a06f/lib-version_check.json	/^{"rustc":14330414595928666026,"features":"[]","target":2726911228026723764,"profile":12637318739/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/wifi-manager-ui-3cbe825fef49c672/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/wifi-manager-ui-46efffd8524e01e2/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":9251013656/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/wifi-manager-ui-e865ca417e2b5b1e/test-bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":1021633075/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/wifi-manager-ui-fc4b522a03e3c281/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/wifiscanner-475c5b8a035afce3/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":1263731873/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/wifiscanner-d738314f4afe3442/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":3735503092/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/xi-unicode-1ef2e4a5ed20a4e3/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":1263731873/;"	s	object:local.0.CheckDepInfo
@@ -16129,6 +16191,10 @@ deps	target/debug/.fingerprint/unicode-segmentation-f00aadea21d27e49/lib-unicode
 deps	target/debug/.fingerprint/unicode-xid-aeb18ec3bc792598/lib-unicode-xid.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17221491243435642268,"profil/;"	a
 deps	target/debug/.fingerprint/version-compare-342ac7d14ba48c20/lib-version-compare.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17443050515150725052,"profil/;"	a
 deps	target/debug/.fingerprint/version_check-d3bf3b48a155a06f/lib-version_check.json	/^{"rustc":14330414595928666026,"features":"[]","target":2726911228026723764,"profile":12637318739/;"	a
+deps	target/debug/.fingerprint/wifi-manager-ui-3cbe825fef49c672/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	a
+deps	target/debug/.fingerprint/wifi-manager-ui-46efffd8524e01e2/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":9251013656/;"	a
+deps	target/debug/.fingerprint/wifi-manager-ui-e865ca417e2b5b1e/test-bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":1021633075/;"	a
+deps	target/debug/.fingerprint/wifi-manager-ui-fc4b522a03e3c281/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	a
 deps	target/debug/.fingerprint/wifiscanner-475c5b8a035afce3/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":1263731873/;"	a
 deps	target/debug/.fingerprint/wifiscanner-d738314f4afe3442/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":3735503092/;"	a
 deps	target/debug/.fingerprint/xi-unicode-1ef2e4a5ed20a4e3/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":1263731873/;"	a
@@ -16405,14 +16471,18 @@ features	target/debug/.fingerprint/unicode-segmentation-f00aadea21d27e49/lib-uni
 features	target/debug/.fingerprint/unicode-xid-aeb18ec3bc792598/lib-unicode-xid.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17221491243435642268,"profil/;"	s
 features	target/debug/.fingerprint/version-compare-342ac7d14ba48c20/lib-version-compare.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17443050515150725052,"profil/;"	s
 features	target/debug/.fingerprint/version_check-d3bf3b48a155a06f/lib-version_check.json	/^{"rustc":14330414595928666026,"features":"[]","target":2726911228026723764,"profile":12637318739/;"	s
+features	target/debug/.fingerprint/wifi-manager-ui-3cbe825fef49c672/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	s
+features	target/debug/.fingerprint/wifi-manager-ui-46efffd8524e01e2/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":9251013656/;"	s
+features	target/debug/.fingerprint/wifi-manager-ui-e865ca417e2b5b1e/test-bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":1021633075/;"	s
+features	target/debug/.fingerprint/wifi-manager-ui-fc4b522a03e3c281/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	s
 features	target/debug/.fingerprint/wifiscanner-475c5b8a035afce3/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":1263731873/;"	s
 features	target/debug/.fingerprint/wifiscanner-d738314f4afe3442/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":3735503092/;"	s
 features	target/debug/.fingerprint/xi-unicode-1ef2e4a5ed20a4e3/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":1263731873/;"	s
 features	target/debug/.fingerprint/xi-unicode-398dc402e898fdac/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":3735503092/;"	s
 fmt	target/debug/build/anyhow-93dacdece15b0c7c/out/probe.rs	/^        fn fmt(&self, _formatter: &mut fmt::Formatter) -> fmt::Result {$/;"	P	implementation:E
-fname	src/main.rs	/^    fname: Arc<str>,$/;"	m	struct:Name
-inuse	src/main.rs	/^    inuse: bool,$/;"	m	struct:WifiItem
-lname	src/main.rs	/^    lname: Arc<str>,$/;"	m	struct:Name
+fname	src/data/appstate.rs	/^    pub fname: Arc<str>,$/;"	m	struct:Name
+inuse	src/data/wifiitem.rs	/^    pub inuse: bool,$/;"	m	struct:WifiItem
+lname	src/data/appstate.rs	/^    pub lname: Arc<str>,$/;"	m	struct:Name
 local	target/debug/.fingerprint/aho-corasick-970a5f30fe00cf11/lib-aho_corasick.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\", \\"std\\"]","target":14517922388190571/;"	a
 local	target/debug/.fingerprint/aho-corasick-e5a7663dc1713624/lib-aho_corasick.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\", \\"std\\"]","target":14517922388190571/;"	a
 local	target/debug/.fingerprint/ansi_term-61814df9bf3a268f/lib-ansi_term.json	/^{"rustc":14330414595928666026,"features":"[]","target":13551784709453654202,"profile":3735503092/;"	a
@@ -16685,6 +16755,10 @@ local	target/debug/.fingerprint/unicode-segmentation-f00aadea21d27e49/lib-unicod
 local	target/debug/.fingerprint/unicode-xid-aeb18ec3bc792598/lib-unicode-xid.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17221491243435642268,"profil/;"	a
 local	target/debug/.fingerprint/version-compare-342ac7d14ba48c20/lib-version-compare.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17443050515150725052,"profil/;"	a
 local	target/debug/.fingerprint/version_check-d3bf3b48a155a06f/lib-version_check.json	/^{"rustc":14330414595928666026,"features":"[]","target":2726911228026723764,"profile":12637318739/;"	a
+local	target/debug/.fingerprint/wifi-manager-ui-3cbe825fef49c672/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	a
+local	target/debug/.fingerprint/wifi-manager-ui-46efffd8524e01e2/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":9251013656/;"	a
+local	target/debug/.fingerprint/wifi-manager-ui-e865ca417e2b5b1e/test-bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":1021633075/;"	a
+local	target/debug/.fingerprint/wifi-manager-ui-fc4b522a03e3c281/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	a
 local	target/debug/.fingerprint/wifiscanner-475c5b8a035afce3/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":1263731873/;"	a
 local	target/debug/.fingerprint/wifiscanner-d738314f4afe3442/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":3735503092/;"	a
 local	target/debug/.fingerprint/xi-unicode-1ef2e4a5ed20a4e3/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":1263731873/;"	a
@@ -16962,11 +17036,16 @@ metadata	target/debug/.fingerprint/unicode-segmentation-f00aadea21d27e49/lib-uni
 metadata	target/debug/.fingerprint/unicode-xid-aeb18ec3bc792598/lib-unicode-xid.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17221491243435642268,"profil/;"	n
 metadata	target/debug/.fingerprint/version-compare-342ac7d14ba48c20/lib-version-compare.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17443050515150725052,"profil/;"	n
 metadata	target/debug/.fingerprint/version_check-d3bf3b48a155a06f/lib-version_check.json	/^{"rustc":14330414595928666026,"features":"[]","target":2726911228026723764,"profile":12637318739/;"	n
+metadata	target/debug/.fingerprint/wifi-manager-ui-3cbe825fef49c672/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	n
+metadata	target/debug/.fingerprint/wifi-manager-ui-46efffd8524e01e2/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":9251013656/;"	n
+metadata	target/debug/.fingerprint/wifi-manager-ui-e865ca417e2b5b1e/test-bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":1021633075/;"	n
+metadata	target/debug/.fingerprint/wifi-manager-ui-fc4b522a03e3c281/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	n
 metadata	target/debug/.fingerprint/wifiscanner-475c5b8a035afce3/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":1263731873/;"	n
 metadata	target/debug/.fingerprint/wifiscanner-d738314f4afe3442/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":3735503092/;"	n
 metadata	target/debug/.fingerprint/xi-unicode-1ef2e4a5ed20a4e3/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":1263731873/;"	n
 metadata	target/debug/.fingerprint/xi-unicode-398dc402e898fdac/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":3735503092/;"	n
-name	src/main.rs	/^    name: Name,$/;"	m	struct:AppState
+name	src/data/appstate.rs	/^    pub name: Name,$/;"	m	struct:AppState
+nameui	src/ui/mod.rs	/^pub mod nameui;$/;"	n
 op	target/debug/build/typenum-ac05385cff7c2a5e/out/op.rs	/^macro_rules! op {$/;"	M
 output	target/debug/.fingerprint/futures-channel-2d6ff1ced007da63/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[14576982292/;"	s	object:local.0.RerunIfChanged
 output	target/debug/.fingerprint/futures-core-01056b69012190c3/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[16841701012/;"	s	object:local.0.RerunIfChanged
@@ -16975,7 +17054,7 @@ output	target/debug/.fingerprint/futures-util-818e8fd71ec10ffa/run-build-script-
 output	target/debug/.fingerprint/im-ba135d150ecfdbb8/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[82523936539/;"	s	object:local.0.RerunIfChanged
 output	target/debug/.fingerprint/libc-67c5766fc67bc33b/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[18069669667/;"	s	object:local.0.RerunIfChanged
 output	target/debug/.fingerprint/proc-macro2-f23526a99d0a1eff/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[73862273221/;"	s	object:local.0.RerunIfChanged
-outputs	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	o
+outputs	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	o
 path	target/debug/.fingerprint/aho-corasick-970a5f30fe00cf11/lib-aho_corasick.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\", \\"std\\"]","target":14517922388190571/;"	n
 path	target/debug/.fingerprint/aho-corasick-e5a7663dc1713624/lib-aho_corasick.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\", \\"std\\"]","target":14517922388190571/;"	n
 path	target/debug/.fingerprint/ansi_term-61814df9bf3a268f/lib-ansi_term.json	/^{"rustc":14330414595928666026,"features":"[]","target":13551784709453654202,"profile":3735503092/;"	n
@@ -17248,6 +17327,10 @@ path	target/debug/.fingerprint/unicode-segmentation-f00aadea21d27e49/lib-unicode
 path	target/debug/.fingerprint/unicode-xid-aeb18ec3bc792598/lib-unicode-xid.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17221491243435642268,"profil/;"	n
 path	target/debug/.fingerprint/version-compare-342ac7d14ba48c20/lib-version-compare.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17443050515150725052,"profil/;"	n
 path	target/debug/.fingerprint/version_check-d3bf3b48a155a06f/lib-version_check.json	/^{"rustc":14330414595928666026,"features":"[]","target":2726911228026723764,"profile":12637318739/;"	n
+path	target/debug/.fingerprint/wifi-manager-ui-3cbe825fef49c672/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	n
+path	target/debug/.fingerprint/wifi-manager-ui-46efffd8524e01e2/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":9251013656/;"	n
+path	target/debug/.fingerprint/wifi-manager-ui-e865ca417e2b5b1e/test-bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":1021633075/;"	n
+path	target/debug/.fingerprint/wifi-manager-ui-fc4b522a03e3c281/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	n
 path	target/debug/.fingerprint/wifiscanner-475c5b8a035afce3/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":1263731873/;"	n
 path	target/debug/.fingerprint/wifiscanner-d738314f4afe3442/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":3735503092/;"	n
 path	target/debug/.fingerprint/xi-unicode-1ef2e4a5ed20a4e3/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":1263731873/;"	n
@@ -17531,6 +17614,10 @@ profile	target/debug/.fingerprint/unicode-segmentation-f00aadea21d27e49/lib-unic
 profile	target/debug/.fingerprint/unicode-xid-aeb18ec3bc792598/lib-unicode-xid.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17221491243435642268,"profil/;"	n
 profile	target/debug/.fingerprint/version-compare-342ac7d14ba48c20/lib-version-compare.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17443050515150725052,"profil/;"	n
 profile	target/debug/.fingerprint/version_check-d3bf3b48a155a06f/lib-version_check.json	/^{"rustc":14330414595928666026,"features":"[]","target":2726911228026723764,"profile":12637318739/;"	n
+profile	target/debug/.fingerprint/wifi-manager-ui-3cbe825fef49c672/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	n
+profile	target/debug/.fingerprint/wifi-manager-ui-46efffd8524e01e2/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":9251013656/;"	n
+profile	target/debug/.fingerprint/wifi-manager-ui-e865ca417e2b5b1e/test-bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":1021633075/;"	n
+profile	target/debug/.fingerprint/wifi-manager-ui-fc4b522a03e3c281/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	n
 profile	target/debug/.fingerprint/wifiscanner-475c5b8a035afce3/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":1263731873/;"	n
 profile	target/debug/.fingerprint/wifiscanner-d738314f4afe3442/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":3735503092/;"	n
 profile	target/debug/.fingerprint/xi-unicode-1ef2e4a5ed20a4e3/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":1263731873/;"	n
@@ -17807,11 +17894,15 @@ rustc	target/debug/.fingerprint/unicode-segmentation-f00aadea21d27e49/lib-unicod
 rustc	target/debug/.fingerprint/unicode-xid-aeb18ec3bc792598/lib-unicode-xid.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17221491243435642268,"profil/;"	n
 rustc	target/debug/.fingerprint/version-compare-342ac7d14ba48c20/lib-version-compare.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17443050515150725052,"profil/;"	n
 rustc	target/debug/.fingerprint/version_check-d3bf3b48a155a06f/lib-version_check.json	/^{"rustc":14330414595928666026,"features":"[]","target":2726911228026723764,"profile":12637318739/;"	n
+rustc	target/debug/.fingerprint/wifi-manager-ui-3cbe825fef49c672/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	n
+rustc	target/debug/.fingerprint/wifi-manager-ui-46efffd8524e01e2/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":9251013656/;"	n
+rustc	target/debug/.fingerprint/wifi-manager-ui-e865ca417e2b5b1e/test-bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":1021633075/;"	n
+rustc	target/debug/.fingerprint/wifi-manager-ui-fc4b522a03e3c281/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	n
 rustc	target/debug/.fingerprint/wifiscanner-475c5b8a035afce3/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":1263731873/;"	n
 rustc	target/debug/.fingerprint/wifiscanner-d738314f4afe3442/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":3735503092/;"	n
 rustc	target/debug/.fingerprint/xi-unicode-1ef2e4a5ed20a4e3/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":1263731873/;"	n
 rustc	target/debug/.fingerprint/xi-unicode-398dc402e898fdac/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":3735503092/;"	n
-rustc_fingerprint	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	n
+rustc_fingerprint	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	n
 rustflags	target/debug/.fingerprint/aho-corasick-970a5f30fe00cf11/lib-aho_corasick.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\", \\"std\\"]","target":14517922388190571/;"	a
 rustflags	target/debug/.fingerprint/aho-corasick-e5a7663dc1713624/lib-aho_corasick.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\", \\"std\\"]","target":14517922388190571/;"	a
 rustflags	target/debug/.fingerprint/ansi_term-61814df9bf3a268f/lib-ansi_term.json	/^{"rustc":14330414595928666026,"features":"[]","target":13551784709453654202,"profile":3735503092/;"	a
@@ -18084,41 +18175,45 @@ rustflags	target/debug/.fingerprint/unicode-segmentation-f00aadea21d27e49/lib-un
 rustflags	target/debug/.fingerprint/unicode-xid-aeb18ec3bc792598/lib-unicode-xid.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17221491243435642268,"profil/;"	a
 rustflags	target/debug/.fingerprint/version-compare-342ac7d14ba48c20/lib-version-compare.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17443050515150725052,"profil/;"	a
 rustflags	target/debug/.fingerprint/version_check-d3bf3b48a155a06f/lib-version_check.json	/^{"rustc":14330414595928666026,"features":"[]","target":2726911228026723764,"profile":12637318739/;"	a
+rustflags	target/debug/.fingerprint/wifi-manager-ui-3cbe825fef49c672/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	a
+rustflags	target/debug/.fingerprint/wifi-manager-ui-46efffd8524e01e2/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":9251013656/;"	a
+rustflags	target/debug/.fingerprint/wifi-manager-ui-e865ca417e2b5b1e/test-bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":1021633075/;"	a
+rustflags	target/debug/.fingerprint/wifi-manager-ui-fc4b522a03e3c281/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	a
 rustflags	target/debug/.fingerprint/wifiscanner-475c5b8a035afce3/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":1263731873/;"	a
 rustflags	target/debug/.fingerprint/wifiscanner-d738314f4afe3442/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":3735503092/;"	a
 rustflags	target/debug/.fingerprint/xi-unicode-1ef2e4a5ed20a4e3/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":1263731873/;"	a
 rustflags	target/debug/.fingerprint/xi-unicode-398dc402e898fdac/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":3735503092/;"	a
-security	src/main.rs	/^    security: Arc<str>,$/;"	m	struct:WifiItem
-ssid	src/main.rs	/^    ssid: Arc<str>,$/;"	m	struct:WifiItem
-status	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	s	object:outputs.11142364071441499871
-status	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	s	object:outputs.17598535894874457435
-status	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	s	object:outputs.2797684049618456168
-status	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	s	object:outputs.5309432699494263626
-status	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	s	object:outputs.8478739912462367707
-status	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	s	object:outputs.931469667778813386
-status	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	s	object:outputs.9666181950136269162
-stderr	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	s	object:outputs.11142364071441499871
-stderr	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	s	object:outputs.17598535894874457435
-stderr	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	s	object:outputs.2797684049618456168
-stderr	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	s	object:outputs.5309432699494263626
-stderr	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	s	object:outputs.8478739912462367707
-stderr	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	s	object:outputs.931469667778813386
-stderr	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	s	object:outputs.9666181950136269162
-stdout	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	s	object:outputs.11142364071441499871
-stdout	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	s	object:outputs.17598535894874457435
-stdout	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	s	object:outputs.2797684049618456168
-stdout	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	s	object:outputs.5309432699494263626
-stdout	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	s	object:outputs.8478739912462367707
-stdout	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	s	object:outputs.931469667778813386
-stdout	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	s	object:outputs.9666181950136269162
-success	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	b	object:outputs.11142364071441499871
-success	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	b	object:outputs.17598535894874457435
-success	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	b	object:outputs.2797684049618456168
-success	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	b	object:outputs.5309432699494263626
-success	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	b	object:outputs.8478739912462367707
-success	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	b	object:outputs.931469667778813386
-success	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	b	object:outputs.9666181950136269162
-successes	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"931469667778813386":{"success":true,"statu/;"	o
+security	src/data/wifiitem.rs	/^    pub security: Arc<str>,$/;"	m	struct:WifiItem
+ssid	src/data/wifiitem.rs	/^    pub ssid: Arc<str>,$/;"	m	struct:WifiItem
+status	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	s	object:outputs.11142364071441499871
+status	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	s	object:outputs.17598535894874457435
+status	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	s	object:outputs.2797684049618456168
+status	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	s	object:outputs.5309432699494263626
+status	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	s	object:outputs.8478739912462367707
+status	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	s	object:outputs.931469667778813386
+status	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	s	object:outputs.9666181950136269162
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	s	object:outputs.11142364071441499871
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	s	object:outputs.17598535894874457435
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	s	object:outputs.2797684049618456168
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	s	object:outputs.5309432699494263626
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	s	object:outputs.8478739912462367707
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	s	object:outputs.931469667778813386
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	s	object:outputs.9666181950136269162
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	s	object:outputs.11142364071441499871
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	s	object:outputs.17598535894874457435
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	s	object:outputs.2797684049618456168
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	s	object:outputs.5309432699494263626
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	s	object:outputs.8478739912462367707
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	s	object:outputs.931469667778813386
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	s	object:outputs.9666181950136269162
+success	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	b	object:outputs.11142364071441499871
+success	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	b	object:outputs.17598535894874457435
+success	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	b	object:outputs.2797684049618456168
+success	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	b	object:outputs.5309432699494263626
+success	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	b	object:outputs.8478739912462367707
+success	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	b	object:outputs.931469667778813386
+success	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	b	object:outputs.9666181950136269162
+successes	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	o
 target	target/debug/.fingerprint/aho-corasick-970a5f30fe00cf11/lib-aho_corasick.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\", \\"std\\"]","target":14517922388190571/;"	n
 target	target/debug/.fingerprint/aho-corasick-e5a7663dc1713624/lib-aho_corasick.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\", \\"std\\"]","target":14517922388190571/;"	n
 target	target/debug/.fingerprint/ansi_term-61814df9bf3a268f/lib-ansi_term.json	/^{"rustc":14330414595928666026,"features":"[]","target":13551784709453654202,"profile":3735503092/;"	n
@@ -18391,6 +18486,10 @@ target	target/debug/.fingerprint/unicode-segmentation-f00aadea21d27e49/lib-unico
 target	target/debug/.fingerprint/unicode-xid-aeb18ec3bc792598/lib-unicode-xid.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17221491243435642268,"profil/;"	n
 target	target/debug/.fingerprint/version-compare-342ac7d14ba48c20/lib-version-compare.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\"]","target":17443050515150725052,"profil/;"	n
 target	target/debug/.fingerprint/version_check-d3bf3b48a155a06f/lib-version_check.json	/^{"rustc":14330414595928666026,"features":"[]","target":2726911228026723764,"profile":12637318739/;"	n
+target	target/debug/.fingerprint/wifi-manager-ui-3cbe825fef49c672/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	n
+target	target/debug/.fingerprint/wifi-manager-ui-46efffd8524e01e2/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":9251013656/;"	n
+target	target/debug/.fingerprint/wifi-manager-ui-e865ca417e2b5b1e/test-bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":1021633075/;"	n
+target	target/debug/.fingerprint/wifi-manager-ui-fc4b522a03e3c281/bin-wifi-manager-ui.json	/^{"rustc":14330414595928666026,"features":"[]","target":13890956815675046320,"profile":7309141686/;"	n
 target	target/debug/.fingerprint/wifiscanner-475c5b8a035afce3/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":1263731873/;"	n
 target	target/debug/.fingerprint/wifiscanner-d738314f4afe3442/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":3735503092/;"	n
 target	target/debug/.fingerprint/xi-unicode-1ef2e4a5ed20a4e3/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":1263731873/;"	n
@@ -20138,6 +20237,7 @@ test__0_Sub_P3	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^fn tes
 test__0_Sub_P4	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^fn test__0_Sub_P4() {$/;"	f
 test__0_Sub_P5	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^fn test__0_Sub_P5() {$/;"	f
 test__0_Sub__0	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^fn test__0_Sub__0() {$/;"	f
+ui	src/main.rs	/^mod ui;$/;"	n
 val	target/debug/.fingerprint/atk-sys-d15ea049c77b296e/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15857326031/;"	z	object:local.0.RerunIfEnvChanged
 val	target/debug/.fingerprint/atk-sys-d15ea049c77b296e/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15857326031/;"	z	object:local.1.RerunIfEnvChanged
 val	target/debug/.fingerprint/atk-sys-d15ea049c77b296e/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15857326031/;"	z	object:local.10.RerunIfEnvChanged
@@ -21290,6 +21390,8 @@ var	target/debug/.fingerprint/pangocairo-sys-43d9ff9e0a8bed52/run-build-script-b
 var	target/debug/.fingerprint/pangocairo-sys-43d9ff9e0a8bed52/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15508571225/;"	s	object:local.7.RerunIfEnvChanged
 var	target/debug/.fingerprint/pangocairo-sys-43d9ff9e0a8bed52/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15508571225/;"	s	object:local.8.RerunIfEnvChanged
 var	target/debug/.fingerprint/pangocairo-sys-43d9ff9e0a8bed52/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15508571225/;"	s	object:local.9.RerunIfEnvChanged
-wifi_processing	src/main.rs	/^    wifi_processing: bool,$/;"	m	struct:AppState
-wifis	src/main.rs	/^    wifis: Vector<WifiItem>,$/;"	m	struct:AppState
+wifi_processing	src/data/appstate.rs	/^    pub wifi_processing: bool,$/;"	m	struct:AppState
+wifiitem	src/data/mod.rs	/^pub mod wifiitem;$/;"	n
+wifilistui	src/ui/mod.rs	/^pub mod wifilistui;$/;"	n
+wifis	src/data/appstate.rs	/^    pub wifis: Vector<WifiItem>,$/;"	m	struct:AppState
 wrapped_wifi_list	src/main.rs	/^fn wrapped_wifi_list(sink: ExtEventSink) {$/;"	f
