@@ -112,9 +112,6 @@ fn wrapped_wifi_list(sink: ExtEventSink) {
             };
             networks.push_back(wifi);
         }
-
-        thread::sleep(time::Duration::from_millis(20));
-
         sink.submit_command(WIFI_LIST_READY, networks, Target::Auto)
     });
 }

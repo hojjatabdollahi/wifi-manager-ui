@@ -1181,14 +1181,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "teach_druid"
-version = "0.1.0"
-dependencies = [
- "druid",
- "wifiscanner",
-]
-
-[[package]]
 name = "thiserror"
 version = "1.0.30"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1486,6 +1478,14 @@ checksum = "7b17e741662c70c8bd24ac5c5b18de314a2c26c32bf8346ee1e6f53de919c283"
 dependencies = [
  "js-sys",
  "wasm-bindgen",
+]
+
+[[package]]
+name = "wifi-manager-ui"
+version = "0.1.0"
+dependencies = [
+ "druid",
+ "wifiscanner",
 ]
 
 [[package]]
