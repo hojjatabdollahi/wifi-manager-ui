@@ -16,6 +16,7 @@ fn main() -> Result<(), PlatformError> {
                 fname: "Wifi".into(),
                 lname: "Scanner".into(),
             },
+            test: 3,
             wifis: Vector::new(),
             wifi_processing: false,
         })

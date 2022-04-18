@@ -8,6 +8,7 @@ pub struct AppState {
     pub name: Name,
     pub wifis: Vector<WifiItem>,
     pub wifi_processing: bool,
+    pub test: u32,
 }
 
 #[derive(Clone, Data, Lens)]

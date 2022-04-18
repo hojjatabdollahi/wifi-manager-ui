@@ -7901,6 +7901,9 @@ E	target/debug/build/anyhow-93dacdece15b0c7c/out/probe.rs	/^    impl Display for
 E	target/debug/build/anyhow-93dacdece15b0c7c/out/probe.rs	/^    impl Error for E {$/;"	c
 E	target/debug/build/anyhow-93dacdece15b0c7c/out/probe.rs	/^    struct E;$/;"	s
 False	target/debug/build/typenum-ac05385cff7c2a5e/out/consts.rs	/^    pub type False = B0;$/;"	t	module:consts
+Icon	src/ui/icon.rs	/^impl Icon {$/;"	c
+Icon	src/ui/icon.rs	/^impl<T> Widget<T> for Icon {$/;"	c
+Icon	src/ui/icon.rs	/^pub struct Icon {$/;"	s
 N1	target/debug/build/typenum-ac05385cff7c2a5e/out/consts.rs	/^    pub type P1 = PInt<U1>; pub type N1 = NInt<U1>;$/;"	t	module:consts
 N1	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^    type N1 = NInt<UInt<UTerm, B1>>;$/;"	t	function:test_N1_Add__0
 N1	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^    type N1 = NInt<UInt<UTerm, B1>>;$/;"	t	function:test_N1_Div_P1
@@ -12680,6 +12683,8 @@ RerunIfEnvChanged	target/debug/.fingerprint/pangocairo-sys-43d9ff9e0a8bed52/run-
 RerunIfEnvChanged	target/debug/.fingerprint/pangocairo-sys-43d9ff9e0a8bed52/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15508571225/;"	o	object:local.7
 RerunIfEnvChanged	target/debug/.fingerprint/pangocairo-sys-43d9ff9e0a8bed52/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15508571225/;"	o	object:local.8
 RerunIfEnvChanged	target/debug/.fingerprint/pangocairo-sys-43d9ff9e0a8bed52/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15508571225/;"	o	object:local.9
+SvgIcon	src/ui/icon.rs	/^impl SvgIcon {$/;"	c
+SvgIcon	src/ui/icon.rs	/^pub struct SvgIcon {$/;"	s
 True	target/debug/build/typenum-ac05385cff7c2a5e/out/consts.rs	/^    pub type True = B1;$/;"	t	module:consts
 U0	target/debug/build/typenum-ac05385cff7c2a5e/out/consts.rs	/^    pub type U0 = UTerm;$/;"	t	module:consts
 U0	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^    type U0 = UTerm;$/;"	t	function:test_0_Add_0
@@ -14795,6 +14800,10 @@ U996	target/debug/build/typenum-ac05385cff7c2a5e/out/consts.rs	/^    pub type U9
 U997	target/debug/build/typenum-ac05385cff7c2a5e/out/consts.rs	/^    pub type U997 = UInt<UInt<UInt<UInt<UInt<UInt<UInt<UInt<UInt<UInt<UTerm, B1>, B1>, B1>, B1>,/;"	t	module:consts
 U998	target/debug/build/typenum-ac05385cff7c2a5e/out/consts.rs	/^    pub type U998 = UInt<UInt<UInt<UInt<UInt<UInt<UInt<UInt<UInt<UInt<UTerm, B1>, B1>, B1>, B1>,/;"	t	module:consts
 U999	target/debug/build/typenum-ac05385cff7c2a5e/out/consts.rs	/^    pub type U999 = UInt<UInt<UInt<UInt<UInt<UInt<UInt<UInt<UInt<UInt<UTerm, B1>, B1>, B1>, B1>,/;"	t	module:consts
+WIFI	src/ui/icon.rs	/^pub static WIFI: SvgIcon = SvgIcon {$/;"	v
+WifiIcon	src/ui/icon.rs	/^impl Widget<u8> for WifiIcon {$/;"	c
+WifiIcon	src/ui/icon.rs	/^impl WifiIcon {$/;"	c
+WifiIcon	src/ui/icon.rs	/^pub struct WifiIcon {$/;"	s
 WifiItem	src/data/wifiitem.rs	/^pub struct WifiItem {$/;"	s
 _0	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^    type _0 = Z0;$/;"	t	function:test_N1_Add_P1
 _0	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^    type _0 = Z0;$/;"	t	function:test_N1_Div_N2
@@ -15095,6 +15104,8 @@ _0Sub_0	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^    type _0Su
 __op_internal__	target/debug/build/typenum-ac05385cff7c2a5e/out/op.rs	/^    macro_rules! __op_internal__ {$/;"	M
 appstate	src/data/mod.rs	/^pub mod appstate;$/;"	n
 backtrace	target/debug/build/anyhow-93dacdece15b0c7c/out/probe.rs	/^        fn backtrace(&self) -> Option<&Backtrace> {$/;"	P	implementation:E
+bez_path	src/ui/icon.rs	/^    bez_path: BezPath,$/;"	m	struct:Icon
+bez_path	src/ui/icon.rs	/^    bez_path: BezPath,$/;"	m	struct:WifiIcon
 build_list	src/ui/wifilistui.rs	/^pub fn build_list() -> impl Widget<Vector<WifiItem>> {$/;"	f
 build_name	src/ui/nameui.rs	/^pub fn build_name() -> impl Widget<Name> {$/;"	f
 build_ui	src/ui/mainwindow.rs	/^pub fn build_ui() -> WindowDesc<AppState> {$/;"	f
@@ -15105,6 +15116,7 @@ code	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"output
 code	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	n	object:outputs.8478739912462367707
 code	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	n	object:outputs.931469667778813386
 code	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	n	object:outputs.9666181950136269162
+color	src/ui/icon.rs	/^    color: KeyOrValue<Color>,$/;"	m	struct:Icon
 command	src/ui/mainwindow.rs	/^    fn command($/;"	P	implementation:Delegate
 compile_kind	target/debug/.fingerprint/aho-corasick-970a5f30fe00cf11/lib-aho_corasick.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\", \\"std\\"]","target":14517922388190571/;"	n
 compile_kind	target/debug/.fingerprint/aho-corasick-e5a7663dc1713624/lib-aho_corasick.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\", \\"std\\"]","target":14517922388190571/;"	n
@@ -16199,6 +16211,8 @@ deps	target/debug/.fingerprint/wifiscanner-475c5b8a035afce3/lib-wifiscanner.json
 deps	target/debug/.fingerprint/wifiscanner-d738314f4afe3442/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":3735503092/;"	a
 deps	target/debug/.fingerprint/xi-unicode-1ef2e4a5ed20a4e3/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":1263731873/;"	a
 deps	target/debug/.fingerprint/xi-unicode-398dc402e898fdac/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":3735503092/;"	a
+event	src/ui/icon.rs	/^    fn event(&mut self, _ctx: &mut EventCtx, _ev: &Event, _data: &mut T, _env: &Env) {}$/;"	P	implementation:Icon
+event	src/ui/icon.rs	/^    fn event(&mut self, _ctx: &mut EventCtx, _ev: &Event, _data: &mut u8, _env: &Env) {}$/;"	P	implementation:WifiIcon
 features	target/debug/.fingerprint/aho-corasick-970a5f30fe00cf11/lib-aho_corasick.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\", \\"std\\"]","target":14517922388190571/;"	s
 features	target/debug/.fingerprint/aho-corasick-e5a7663dc1713624/lib-aho_corasick.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\", \\"std\\"]","target":14517922388190571/;"	s
 features	target/debug/.fingerprint/ansi_term-61814df9bf3a268f/lib-ansi_term.json	/^{"rustc":14330414595928666026,"features":"[]","target":13551784709453654202,"profile":3735503092/;"	s
@@ -16481,7 +16495,12 @@ features	target/debug/.fingerprint/xi-unicode-1ef2e4a5ed20a4e3/lib-xi-unicode.js
 features	target/debug/.fingerprint/xi-unicode-398dc402e898fdac/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":3735503092/;"	s
 fmt	target/debug/build/anyhow-93dacdece15b0c7c/out/probe.rs	/^        fn fmt(&self, _formatter: &mut fmt::Formatter) -> fmt::Result {$/;"	P	implementation:E
 fname	src/data/appstate.rs	/^    pub fname: Arc<str>,$/;"	m	struct:Name
+icon	src/ui/mod.rs	/^pub mod icon;$/;"	n
 inuse	src/data/wifiitem.rs	/^    pub inuse: bool,$/;"	m	struct:WifiItem
+layout	src/ui/icon.rs	/^    fn layout($/;"	P	implementation:WifiIcon
+layout	src/ui/icon.rs	/^    fn layout(&mut self, _ctx: &mut LayoutCtx, bc: &BoxConstraints, _data: &T, _env: &Env) -> Si/;"	P	implementation:Icon
+lifecycle	src/ui/icon.rs	/^    fn lifecycle(&mut self, _ctx: &mut LifeCycleCtx, _ev: &LifeCycle, _data: &T, _env: &Env) {}$/;"	P	implementation:Icon
+lifecycle	src/ui/icon.rs	/^    fn lifecycle(&mut self, _ctx: &mut LifeCycleCtx, _ev: &LifeCycle, _data: &u8, _env: &Env) {}$/;"	P	implementation:WifiIcon
 lname	src/data/appstate.rs	/^    pub lname: Arc<str>,$/;"	m	struct:Name
 local	target/debug/.fingerprint/aho-corasick-970a5f30fe00cf11/lib-aho_corasick.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\", \\"std\\"]","target":14517922388190571/;"	a
 local	target/debug/.fingerprint/aho-corasick-e5a7663dc1713624/lib-aho_corasick.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\", \\"std\\"]","target":14517922388190571/;"	a
@@ -17047,6 +17066,7 @@ metadata	target/debug/.fingerprint/xi-unicode-1ef2e4a5ed20a4e3/lib-xi-unicode.js
 metadata	target/debug/.fingerprint/xi-unicode-398dc402e898fdac/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":3735503092/;"	n
 name	src/data/appstate.rs	/^    pub name: Name,$/;"	m	struct:AppState
 nameui	src/ui/mod.rs	/^pub mod nameui;$/;"	n
+new	src/ui/icon.rs	/^    pub fn new(bez_path: BezPath, size: Size, scale: Affine, color: KeyOrValue<Color>) -> Self {$/;"	P	implementation:Icon
 op	target/debug/build/typenum-ac05385cff7c2a5e/out/op.rs	/^macro_rules! op {$/;"	M
 output	target/debug/.fingerprint/futures-channel-2d6ff1ced007da63/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[14576982292/;"	s	object:local.0.RerunIfChanged
 output	target/debug/.fingerprint/futures-core-01056b69012190c3/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[16841701012/;"	s	object:local.0.RerunIfChanged
@@ -17056,6 +17076,8 @@ output	target/debug/.fingerprint/im-ba135d150ecfdbb8/run-build-script-build-scri
 output	target/debug/.fingerprint/libc-67c5766fc67bc33b/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[18069669667/;"	s	object:local.0.RerunIfChanged
 output	target/debug/.fingerprint/proc-macro2-f23526a99d0a1eff/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[73862273221/;"	s	object:local.0.RerunIfChanged
 outputs	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	o
+paint	src/ui/icon.rs	/^    fn paint(&mut self, ctx: &mut PaintCtx, _data: &T, env: &Env) {$/;"	P	implementation:Icon
+paint	src/ui/icon.rs	/^    fn paint(&mut self, ctx: &mut PaintCtx, data: &u8, _env: &Env) {$/;"	P	implementation:WifiIcon
 path	target/debug/.fingerprint/aho-corasick-970a5f30fe00cf11/lib-aho_corasick.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\", \\"std\\"]","target":14517922388190571/;"	n
 path	target/debug/.fingerprint/aho-corasick-e5a7663dc1713624/lib-aho_corasick.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\", \\"std\\"]","target":14517922388190571/;"	n
 path	target/debug/.fingerprint/ansi_term-61814df9bf3a268f/lib-ansi_term.json	/^{"rustc":14330414595928666026,"features":"[]","target":13551784709453654202,"profile":3735503092/;"	n
@@ -18184,7 +18206,15 @@ rustflags	target/debug/.fingerprint/wifiscanner-475c5b8a035afce3/lib-wifiscanner
 rustflags	target/debug/.fingerprint/wifiscanner-d738314f4afe3442/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":3735503092/;"	a
 rustflags	target/debug/.fingerprint/xi-unicode-1ef2e4a5ed20a4e3/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":1263731873/;"	a
 rustflags	target/debug/.fingerprint/xi-unicode-398dc402e898fdac/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":3735503092/;"	a
+scale	src/ui/icon.rs	/^    pub fn scale(&self, to_size: impl Into<Size>) -> Icon {$/;"	P	implementation:SvgIcon
+scale	src/ui/icon.rs	/^    pub fn scale(to_size: impl Into<Size>) -> WifiIcon {$/;"	P	implementation:WifiIcon
+scale	src/ui/icon.rs	/^    scale: Affine,$/;"	m	struct:Icon
+scale	src/ui/icon.rs	/^    scale: Affine,$/;"	m	struct:WifiIcon
 security	src/data/wifiitem.rs	/^    pub security: Arc<str>,$/;"	m	struct:WifiItem
+set_color	src/ui/icon.rs	/^    pub fn set_color(&mut self, color: impl Into<KeyOrValue<Color>>) {$/;"	P	implementation:Icon
+signal	src/data/wifiitem.rs	/^    pub signal: u8,$/;"	m	struct:WifiItem
+size	src/ui/icon.rs	/^    size: Size,$/;"	m	struct:Icon
+size	src/ui/icon.rs	/^    size: Size,$/;"	m	struct:WifiIcon
 ssid	src/data/wifiitem.rs	/^    pub ssid: Arc<str>,$/;"	m	struct:WifiItem
 status	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	s	object:outputs.11142364071441499871
 status	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	s	object:outputs.17598535894874457435
@@ -18215,6 +18245,8 @@ success	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"out
 success	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	b	object:outputs.931469667778813386
 success	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	b	object:outputs.9666181950136269162
 successes	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	o
+svg_path	src/ui/icon.rs	/^    svg_path: &'static str,$/;"	m	struct:SvgIcon
+svg_size	src/ui/icon.rs	/^    svg_size: Size,$/;"	m	struct:SvgIcon
 target	target/debug/.fingerprint/aho-corasick-970a5f30fe00cf11/lib-aho_corasick.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\", \\"std\\"]","target":14517922388190571/;"	n
 target	target/debug/.fingerprint/aho-corasick-e5a7663dc1713624/lib-aho_corasick.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\", \\"std\\"]","target":14517922388190571/;"	n
 target	target/debug/.fingerprint/ansi_term-61814df9bf3a268f/lib-ansi_term.json	/^{"rustc":14330414595928666026,"features":"[]","target":13551784709453654202,"profile":3735503092/;"	n
@@ -18495,6 +18527,7 @@ target	target/debug/.fingerprint/wifiscanner-475c5b8a035afce3/lib-wifiscanner.js
 target	target/debug/.fingerprint/wifiscanner-d738314f4afe3442/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":3735503092/;"	n
 target	target/debug/.fingerprint/xi-unicode-1ef2e4a5ed20a4e3/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":1263731873/;"	n
 target	target/debug/.fingerprint/xi-unicode-398dc402e898fdac/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":3735503092/;"	n
+test	src/data/appstate.rs	/^    pub test: u32,$/;"	m	struct:AppState
 test_0_Add_0	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^fn test_0_Add_0() {$/;"	f
 test_0_Add_1	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^fn test_0_Add_1() {$/;"	f
 test_0_Add_2	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^fn test_0_Add_2() {$/;"	f
@@ -20239,6 +20272,8 @@ test__0_Sub_P4	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^fn tes
 test__0_Sub_P5	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^fn test__0_Sub_P5() {$/;"	f
 test__0_Sub__0	target/debug/build/typenum-ac05385cff7c2a5e/out/tests.rs	/^fn test__0_Sub__0() {$/;"	f
 ui	src/main.rs	/^mod ui;$/;"	n
+update	src/ui/icon.rs	/^    fn update(&mut self, _ctx: &mut UpdateCtx, _old_data: &T, _data: &T, _env: &Env) {}$/;"	P	implementation:Icon
+update	src/ui/icon.rs	/^    fn update(&mut self, _ctx: &mut UpdateCtx, _old_data: &u8, _data: &u8, _env: &Env) {}$/;"	P	implementation:WifiIcon
 val	target/debug/.fingerprint/atk-sys-d15ea049c77b296e/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15857326031/;"	z	object:local.0.RerunIfEnvChanged
 val	target/debug/.fingerprint/atk-sys-d15ea049c77b296e/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15857326031/;"	z	object:local.1.RerunIfEnvChanged
 val	target/debug/.fingerprint/atk-sys-d15ea049c77b296e/run-build-script-build-script-build.json	/^{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[15857326031/;"	z	object:local.10.RerunIfEnvChanged
@@ -21395,4 +21430,5 @@ wifi_processing	src/data/appstate.rs	/^    pub wifi_processing: bool,$/;"	m	stru
 wifiitem	src/data/mod.rs	/^pub mod wifiitem;$/;"	n
 wifilistui	src/ui/mod.rs	/^pub mod wifilistui;$/;"	n
 wifis	src/data/appstate.rs	/^    pub wifis: Vector<WifiItem>,$/;"	m	struct:AppState
+with_color	src/ui/icon.rs	/^    pub fn with_color(mut self, color: impl Into<KeyOrValue<Color>>) -> Self {$/;"	P	implementation:Icon
 wrapped_wifi_list	src/ui/mainwindow.rs	/^fn wrapped_wifi_list(sink: ExtEventSink) {$/;"	f

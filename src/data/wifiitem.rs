@@ -7,4 +7,5 @@ pub struct WifiItem {
     pub inuse: bool,
     pub security: Arc<str>,
     pub ssid: Arc<str>,
+    pub signal: u8,
 }

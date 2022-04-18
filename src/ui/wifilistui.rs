@@ -8,9 +8,12 @@ use druid::{
 
 use crate::data::wifiitem::WifiItem;
 
+use super::icon::WifiIcon;
+
 pub fn build_list() -> impl Widget<Vector<WifiItem>> {
     List::new(|| {
         Flex::row()
+            .with_child(WifiIcon::scale((32.0, 32.0)).lens(WifiItem::signal))
             .with_child(
                 Label::new(|a: &bool, _env: &_| {
                     (if *a { "Connected" } else { "Not Connected" }).to_string()
