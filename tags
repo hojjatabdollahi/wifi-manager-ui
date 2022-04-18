@@ -7895,8 +7895,8 @@ CheckDepInfo	target/debug/.fingerprint/wifiscanner-475c5b8a035afce3/lib-wifiscan
 CheckDepInfo	target/debug/.fingerprint/wifiscanner-d738314f4afe3442/lib-wifiscanner.json	/^{"rustc":14330414595928666026,"features":"[]","target":12935380227198457970,"profile":3735503092/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/xi-unicode-1ef2e4a5ed20a4e3/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":1263731873/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/xi-unicode-398dc402e898fdac/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":3735503092/;"	o	object:local.0
-Delegate	src/main.rs	/^impl AppDelegate<AppState> for Delegate {$/;"	c
-Delegate	src/main.rs	/^struct Delegate;$/;"	s
+Delegate	src/ui/mainwindow.rs	/^impl AppDelegate<AppState> for Delegate {$/;"	c
+Delegate	src/ui/mainwindow.rs	/^pub struct Delegate;$/;"	s
 E	target/debug/build/anyhow-93dacdece15b0c7c/out/probe.rs	/^    impl Display for E {$/;"	c
 E	target/debug/build/anyhow-93dacdece15b0c7c/out/probe.rs	/^    impl Error for E {$/;"	c
 E	target/debug/build/anyhow-93dacdece15b0c7c/out/probe.rs	/^    struct E;$/;"	s
@@ -15097,7 +15097,7 @@ appstate	src/data/mod.rs	/^pub mod appstate;$/;"	n
 backtrace	target/debug/build/anyhow-93dacdece15b0c7c/out/probe.rs	/^        fn backtrace(&self) -> Option<&Backtrace> {$/;"	P	implementation:E
 build_list	src/ui/wifilistui.rs	/^pub fn build_list() -> impl Widget<Vector<WifiItem>> {$/;"	f
 build_name	src/ui/nameui.rs	/^pub fn build_name() -> impl Widget<Name> {$/;"	f
-build_ui	src/main.rs	/^fn build_ui() -> WindowDesc<AppState> {$/;"	f
+build_ui	src/ui/mainwindow.rs	/^pub fn build_ui() -> WindowDesc<AppState> {$/;"	f
 code	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	n	object:outputs.11142364071441499871
 code	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	n	object:outputs.17598535894874457435
 code	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	n	object:outputs.2797684049618456168
@@ -15105,7 +15105,7 @@ code	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"output
 code	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	n	object:outputs.8478739912462367707
 code	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	n	object:outputs.931469667778813386
 code	target/.rustc_info.json	/^{"rustc_fingerprint":14699325976747886259,"outputs":{"2797684049618456168":{"success":false,"sta/;"	n	object:outputs.9666181950136269162
-command	src/main.rs	/^    fn command($/;"	P	implementation:Delegate
+command	src/ui/mainwindow.rs	/^    fn command($/;"	P	implementation:Delegate
 compile_kind	target/debug/.fingerprint/aho-corasick-970a5f30fe00cf11/lib-aho_corasick.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\", \\"std\\"]","target":14517922388190571/;"	n
 compile_kind	target/debug/.fingerprint/aho-corasick-e5a7663dc1713624/lib-aho_corasick.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\", \\"std\\"]","target":14517922388190571/;"	n
 compile_kind	target/debug/.fingerprint/ansi_term-61814df9bf3a268f/lib-ansi_term.json	/^{"rustc":14330414595928666026,"features":"[]","target":13551784709453654202,"profile":3735503092/;"	n
@@ -16764,6 +16764,7 @@ local	target/debug/.fingerprint/wifiscanner-d738314f4afe3442/lib-wifiscanner.jso
 local	target/debug/.fingerprint/xi-unicode-1ef2e4a5ed20a4e3/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":1263731873/;"	a
 local	target/debug/.fingerprint/xi-unicode-398dc402e898fdac/lib-xi-unicode.json	/^{"rustc":14330414595928666026,"features":"[]","target":17829644686082547275,"profile":3735503092/;"	a
 main	src/main.rs	/^fn main() -> Result<(), PlatformError> {$/;"	f
+mainwindow	src/ui/mod.rs	/^pub mod mainwindow;$/;"	n
 metadata	target/debug/.fingerprint/aho-corasick-970a5f30fe00cf11/lib-aho_corasick.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\", \\"std\\"]","target":14517922388190571/;"	n
 metadata	target/debug/.fingerprint/aho-corasick-e5a7663dc1713624/lib-aho_corasick.json	/^{"rustc":14330414595928666026,"features":"[\\"default\\", \\"std\\"]","target":14517922388190571/;"	n
 metadata	target/debug/.fingerprint/ansi_term-61814df9bf3a268f/lib-ansi_term.json	/^{"rustc":14330414595928666026,"features":"[]","target":13551784709453654202,"profile":3735503092/;"	n
@@ -21394,4 +21395,4 @@ wifi_processing	src/data/appstate.rs	/^    pub wifi_processing: bool,$/;"	m	stru
 wifiitem	src/data/mod.rs	/^pub mod wifiitem;$/;"	n
 wifilistui	src/ui/mod.rs	/^pub mod wifilistui;$/;"	n
 wifis	src/data/appstate.rs	/^    pub wifis: Vector<WifiItem>,$/;"	m	struct:AppState
-wrapped_wifi_list	src/main.rs	/^fn wrapped_wifi_list(sink: ExtEventSink) {$/;"	f
+wrapped_wifi_list	src/ui/mainwindow.rs	/^fn wrapped_wifi_list(sink: ExtEventSink) {$/;"	f
